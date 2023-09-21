@@ -1,3 +1,3 @@
 # Hecto
 
-Hecto is the future, Hecto is life.
+The future is in Hecto.
